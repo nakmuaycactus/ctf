@@ -1,2 +1,3 @@
-# ctf
-CTF stuff
+# CTF stuff
+
+Writeups and whatnot
